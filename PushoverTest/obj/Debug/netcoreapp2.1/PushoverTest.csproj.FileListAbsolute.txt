@@ -1,0 +1,13 @@
+/Users/roman/Projects/PushoverTest/PushoverTest/bin/Debug/netcoreapp2.1/PushoverTest.deps.json
+/Users/roman/Projects/PushoverTest/PushoverTest/bin/Debug/netcoreapp2.1/PushoverTest.runtimeconfig.json
+/Users/roman/Projects/PushoverTest/PushoverTest/bin/Debug/netcoreapp2.1/PushoverTest.runtimeconfig.dev.json
+/Users/roman/Projects/PushoverTest/PushoverTest/bin/Debug/netcoreapp2.1/PushoverTest.dll
+/Users/roman/Projects/PushoverTest/PushoverTest/bin/Debug/netcoreapp2.1/PushoverTest.pdb
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.csproj.CoreCompileInputs.cache
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.RazorAssemblyInfo.cache
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.RazorAssemblyInfo.cs
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.AssemblyInfoInputs.cache
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.AssemblyInfo.cs
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.RazorTargetAssemblyInfo.cache
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.dll
+/Users/roman/Projects/PushoverTest/PushoverTest/obj/Debug/netcoreapp2.1/PushoverTest.pdb
